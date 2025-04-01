@@ -1,4 +1,4 @@
-# Despliegue de Autonomous Database en Oracle Cloud con Terraform
+# Despliegue Autonomous Database en Oracle Cloud con Terraform
 
 Este proyecto automatiza la creación de una **base de datos autónoma Always Free** en Oracle Cloud Infrastructure (OCI) utilizando **Terraform**, estableciendo una conexión interna.
 
