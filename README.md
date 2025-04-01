@@ -60,7 +60,7 @@ Este proyecto automatiza la creación de una **base de datos autónoma Always Fr
    wallet_password  = "OtraContraseñaSegura456!"
    ```
 
-   **Nota*: Asegúrate de reemplazar los valores de ejemplo por los correspondientes a tu entoro.
+   **Nota*: Asegúrate de reemplazar los valores de ejemplo por los correspondientes a tu entorno.
 
 3. **Inicializar Terraform**:
 
