@@ -34,8 +34,7 @@ Este proyecto automatiza la creación de una **base de datos autónoma Always Fr
   1. **Generación de claves API**:
      - Crea un par de claves RSA para la autenticación.
      - Guarda la clave privada en el directorio `~/.oci/` y la pública en tu cuenta de OCI.
-  2. **Configuración del archivo `config` de OCI**:
-     - Ubica o crea el archivo `~/.oci/config`.
+  2. **Configuración del archivo `main.tf` de OCI**:
      - Añade las credenciales y detalles de configuración necesarios.
 
   Para una guía detallada, consulta la documentación oficial de Oracle: [Configuración del proveedor de Terraform para OCI](https://docs.oracle.com/en-us/iaas/Content/dev/terraform/configuring.htm).
