@@ -104,7 +104,7 @@ Este proyecto automatiza la creación de una **base de datos autónoma Always Fr
 
 ## 💻 Muestra de funcionamiento
 
-![image-20250401185758552](/home/v1ct0r/GIT/oci-autonomousdb/image-20250401185758552.png)
+![image-20250401185758552]([/home/v1ct0r/GIT/oci-autonomousdb/image-20250401185758552.png](https://github.com/v1ct0rjs/oci-autonomousdb/blob/main/image-20250401185758552.png))
 
 ## 📚 Recursos adicionales
 
