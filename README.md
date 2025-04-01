@@ -97,7 +97,7 @@ Este proyecto automatiza la creación de una **base de datos autónoma Always Fr
 
 ## 🔒 Consideraciones de seguridad
 
-- **Archivos sensibles*: No incluyas `terraform.tfvars` ni `archivo_llave_oci.pem` en el control de versiones, ya que contienen información confidencal.
+- **Archivos sensibles*: No incluyas `terraform.tfvars` ni `archivo_llave_oci.pem` en el control de versiones, ya que contienen información confidencial.
 
 ------
 
